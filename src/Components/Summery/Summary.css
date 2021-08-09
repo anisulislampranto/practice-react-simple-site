@@ -1,0 +1,9 @@
+.summary{
+    border: 1px solid black;
+    margin-top: 20px;
+    width: 340px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px gray;
+    font-weight: bolder;
+}
